@@ -1,0 +1,14 @@
+Copyright by DevilHub 
+License: MIT
+Author: Kacper Kinius
+
+Miłego uzywania ~~
+
+
+Zanim użyjesz bota wpisz w Konsoli
+
+npm i discord.js@12
+
+
+
+Jeżeli komenda nie działa wpisz w przegladarke https://nodejs.org i pobierz najnowszą wersje ;)
