@@ -51,4 +51,4 @@ client.on('message', async(message) => {
         client.channels.cache.get("1074658405639278592").send(embedPropozycja)
     }
 })
-client.login('MTA3NDM2OTMzNTg1MTc0OTUyOQ.G_al5G.9NISYAH-z9U0MJv1bVjs9halycVsFS1ggZJ-sk')
+client.login('TOKEN BOTA')
