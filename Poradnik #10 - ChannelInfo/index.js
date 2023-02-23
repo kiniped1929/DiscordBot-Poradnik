@@ -94,4 +94,4 @@ client.on('message', async(message) => {
 
 
 
-client.login('MTA3NDM2OTMzNTg1MTc0OTUyOQ.G__zXL.VEpINsQKibB5294ILDR9bKgynrjTID2qXYa-5o')
+client.login('Wjeb tu token')
