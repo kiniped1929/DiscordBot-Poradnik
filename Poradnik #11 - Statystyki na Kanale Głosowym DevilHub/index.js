@@ -125,4 +125,4 @@ client.on('guildMemberRemove', (message) => {
 
 
 // możecie więcej eventów sobie dodać jak chcecie c:
-client.login('MTA3NDM2OTMzNTg1MTc0OTUyOQ.GtGU2e.eQewuyl-QphLt7cZjqYzxJipEE77_DtlIMFsks')
+client.login('Zmien token')
