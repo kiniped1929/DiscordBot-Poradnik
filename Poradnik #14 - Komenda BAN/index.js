@@ -125,4 +125,4 @@ client.on('guildMemberRemove', (message) => {
 
 
 // możecie więcej eventów sobie dodać jak chcecie c:
-client.login('MTA3NDM2OTMzNTg1MTc0OTUyOQ.GOotRM.KFE5osDvSht7B8q5M0km2zpyHqii6HXabc2evg')
+client.login("zmientoken")
