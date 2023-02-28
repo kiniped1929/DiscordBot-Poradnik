@@ -68,16 +68,15 @@ module.exports = async (client, button) => {
             embed: openedTicket,
             buttons: [ZamknijButton]
         })
-        if(button.id === "TICKET_KINIUS_CLOSE") {
-            let ticketChannel = button.channel;
+    if (button.id === `TICKET_KINIUS_CLOSE`) {
+        let ticketChannel = button.channel;
 
-            let delTicket = new MessageEmbed()
-            .setAuthor('TICKETY', "https://devilhub.cf/logo.png")
-            .setColor('YELLOW')
-            .setDescription('Zaraz się zamknie')
-
-            ticketChannel.send(delTicket)
-            setTimeout(() => { ticketChannel.delete()}, 5000)
-        }
+        let deletingTicket = new MessageEmbed()
+            .setAuthor(`DevilHub`, "https://devilhub.cf/logo.png")
+                   .setColor('RED')
+            .setDescription(`Zostanie on usunięty za **5** sekund!`)
+        ticketChannel.send(deletingTicket)
+        setTimeout(() => { ticketChannel.delete() }, 5000);
+    }
     }
 }
