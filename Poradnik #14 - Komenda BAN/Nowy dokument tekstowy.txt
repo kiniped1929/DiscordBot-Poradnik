@@ -7,7 +7,7 @@ Miłego uzywania ~~
 
 Zanim użyjesz bota wpisz w Konsoli
 
-npm i discord.js@12 fs rss-parser ascii-table ytdl-core yt-search ffmpeg ffmpeg-static discord-buttons
+npm i discord.js@12 fs rss-parser ascii-table ytdl-core yt-search ffmpeg ffmpeg-static discord-buttons moment
 
 
 
