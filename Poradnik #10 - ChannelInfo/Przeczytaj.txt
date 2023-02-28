@@ -1,6 +1,6 @@
 Copyright by DevilHub 
-License: MIT
-Author: Kacper Kinius
+License MIT
+Author Kacper Kinius
 
 Miłego uzywania ~~
 
@@ -11,4 +11,4 @@ npm i discord.js@12 fs rss-parser ascii-table ytdl-core yt-search ffmpeg ffmpeg-
 
 
 
-Jeżeli komenda nie działa wpisz w przegladarke https://nodejs.org i pobierz najnowszą wersje ;)
+Jeżeli komenda nie działa wpisz w przegladarke httpsnodejs.org i pobierz najnowszą wersje ;)
